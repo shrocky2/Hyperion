@@ -1,4 +1,4 @@
-# Welcome to my setup instructions for my Hyperion Ambient Light TV Project.
+# Welcome to my Hyperion Ambient TV Light Project instructions.
 
 You can view my YouTube installation video here: COMING SOON (Aug 2020)
 
