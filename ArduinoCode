@@ -15,7 +15,7 @@
 uint8_t prefix[] = {'A', 'd', 'a'}, hi, lo, chk, i;
  
 // Baudrate, higher rate allows faster refresh rate and more LEDs (defined in /etc/boblight.conf)
-#define serialRate 00000
+#define serialRate 500000
 // #define serialRate 460800 
  
 // Define the array of leds
