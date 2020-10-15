@@ -31,7 +31,11 @@ Inside this code, you need to edit Line 3 to the number of LEDs you have around 
 On the left side of the Web Editor, Select Libraries, then Library Manager at the top...then Search for and install FASTLED.
 
 # Wiring Diagram
+This first diagram is the settup I showed in my YouTube video. I used an HDMI Splitter and then an HDMI Capture Card.
+<img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Splitter.png">
+
+This second diagram would be a preferred method since it removes the need for a HDMI Splitter. This HDMI Capture card has a passthru to send the HDMI signal directly to your TV. 
 <img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Passthru.png">
 
-<img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Splitter.png">
+
 More Info to Come...
