@@ -31,7 +31,7 @@ Inside this code, you need to edit Line 3 to the number of LEDs you have around 
 On the left side of the Web Editor, Select Libraries, then Library Manager at the top...then Search for and install FASTLED.
 
 # Wiring Diagram
-<img src="">https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Passthru.png">
+<img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Passthru.png">
 
-<img src="">https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Splitter.png">
+<img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Splitter.png">
 More Info to Come...
