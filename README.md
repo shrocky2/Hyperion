@@ -28,6 +28,10 @@ Once inside the Arduino Web Editor, Create a NEW SKETCH and Copy/Paste the Code 
 
 Inside this code, you need to edit Line 3 to the number of LEDs you have around the boarder of your TV. In my setup, I have 110 LEDs.
 
+Another YouTube user suggest that if you have more than 255 LEDs, line 95 might need to be changed from:
+    for (uint8_t i = 0; i < NUM_LEDS; i++) {         setting i to be uint8_t limits it to 255, so it cannot set more leds, by changing this line to 
+    for (uint16_t i = 0; i < NUM_LEDS; i++) {
+
 On the left side of the Web Editor, Select Libraries, then Library Manager at the top...then Search for and install FASTLED.
 
 # Wiring Diagram
