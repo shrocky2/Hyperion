@@ -41,5 +41,6 @@ This first diagram is the settup I showed in my YouTube video. I used an HDMI Sp
 This second diagram would be a preferred method since it removes the need for a HDMI Splitter. This HDMI Capture card has a passthru to send the HDMI signal directly to your TV. 
 <img src="https://github.com/shrocky2/Hyperion/blob/master/Complete%20Hyperion%20Passthru.png">
 
-
+Here's an alternative design using a Raspberry Pi 4 (updated by:  Jan Feb)
+<img src="https://github.com/shrocky2/Hyperion/blob/master/Complete Hyperion Pi4.png">
 More Info to Come...
