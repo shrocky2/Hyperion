@@ -23,6 +23,7 @@ Once you burn the HyperBian image to your SD card, you need to setup SSH and WiF
 
 # Expert Settings
 If you are missing settings (like baudrate), they may be hidden in the Expert Settings. You can change the settings level in the upper right hand corner.
+
 <img src="https://github.com/shrocky2/Hyperion/blob/master/Expert%20Settings.png" height="200">
 
 # Arduino Software
