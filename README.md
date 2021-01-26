@@ -21,6 +21,10 @@ To burn the HyperBian image to your SD card you can use Win32 Disk Imager for Wi
 
 Once you burn the HyperBian image to your SD card, you need to setup SSH and WiFi on the Pi. Create a file on the SD card called "wpa_supplicant.conf" (without the quotation marks) and inside enter to code found at this link: https://raw.githubusercontent.com/shrocky2/Hyperion/master/wpa_supplicant.conf replacing the SSID and Password with your Home WiFi name and Password. For SSH, create an empty file called "SSH" (without the quotation marks & without a file extention) and place that on the same SD Card.
 
+# Expert Settings
+If you are missing settings (like baudrate), they may be hidden in the Expert Settings. You can change the settings level in the upper right hand corner.
+<img src-"https://github.com/shrocky2/Hyperion/blob/master/Expert%20Settings.png">
+
 # Arduino Software
 Go to https://create.arduino.cc/ and setup a free account so you can use there FREE web editor. You'll need to install a Device Driver in order for the Web Application to install our software onto the Arduino. If you use an Arduino clone like I am in my video, You'll need to follow the Arduino Nano clone installion instructions to install a separate Device Drive for that specific Arduino. (The Arduino clones use a different driver than the Authentic Arduino)
 
