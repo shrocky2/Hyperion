@@ -5,7 +5,7 @@ You can view my YouTube installation video here: https://youtu.be/hpBRKZ_2aYo
 # For this project, we'll be using the following hardware:
 1. Raspberry Pi (any Pi will work) I'll be using a Raspberry Pi Zero W ( https://amzn.to/3i3TfcM ). This project will require the Pi to talk to your home network (WiFi), so we need a Pi that has network capabilities.
 2. Micro USB card for the Raspberry to install our OS ( https://amzn.to/2DFaUIT ) You'll need a SD card that is 4GB or larger
-3. An Arduino that will control an LED Light Strip. I picked up these Arduino Nano clones: https://amzn.to/3a0Pbr1 (Alternative: https://amzn.to/3iPOftX )
+3. An Arduino that will control an LED Light Strip. I picked up these Arduino Nano clones: https://amzn.to/3a0Pbr1 (Alternative: https://amzn.to/3ofGqis )
 4. WS2812B LED light Strip. My LED strip ( https://amzn.to/3gpbbON ) has 150 LEDs and is 16.4ft. There are LED sets that have more LEDs per foot...while that'll give you a brighter ambient light, it'll use more electricity, so you might need a larger power supply.
 5. HDMI capture card ( https://amzn.to/33qUoav or https://www.aliexpress.com/item/4001032102280.html ) I bought mine on Aliexpress, but Amazon has an easier return policy. OR HDMI capture card with built in passthrough ( https://amzn.to/2FpvEoX )
 6. Micro USB Hub ( https://amzn.to/2DENYJK ) This hub will give the Raspberry Pi Zero W four stand USB ports...The Raspberry Pi Zero only has one usable micro USB port, and we'll need 2 ports, 1 USB port for the HDMI Capture Card, and 1 for the Arduino Nano. If you already have a USB Hub, but you need a USB to Micro USB cable, I have a couple of these ( https://amzn.to/33qHadF )
